@@ -2266,17 +2266,17 @@ select::-ms-expand {
 }
 
 .form-control::-webkit-input-placeholder {
-  color: #6c757d;
+  color: #a2aab1;
   opacity: 1;
 }
 
 .form-control::-ms-input-placeholder {
-  color: #6c757d;
+  color: #a2aab1;
   opacity: 1;
 }
 
 .form-control::placeholder {
-  color: #6c757d;
+  color: #a2aab1;
   opacity: 1;
 }
 
